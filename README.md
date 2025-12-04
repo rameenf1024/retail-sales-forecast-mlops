@@ -4,7 +4,6 @@
 
 **Live Interactive Dashboard** → [https://huggingface.co/spaces/Rameen05/retail_sales_forecast](https://huggingface.co/spaces/Rameen05/retail_sales_forecast)  
 
-[Demo](https://huggingface.co/spaces/Rameen05/retail_sales_forecast/resolve/main/demo.gif) 
 
 ## Features
 - Raw transaction processing (Quantity × UnitPrice)
