@@ -36,7 +36,7 @@ def forecast_only():
 
 with DAG(
     dag_id="retail_sales_forecasting_pipeline",
-    schedule=None,                     # ← turned off schedule so no confusion
+    schedule=None,                      # ← turned off schedule so no confusion
     start_date=datetime(2025, 1, 1),
     catchup=False,
     tags=["retail"],
